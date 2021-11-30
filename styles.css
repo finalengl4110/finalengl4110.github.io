@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+body {
+background-color: #000033;
+font-family: Verdana;
+color: #ffffff;
+text-align: left;
+margin-left: 5%;
+margin-right: 5%;
+list-style-type: none;
+font-size: 100%
+}
+h1 
+{
+font-size: 200%;
+font-weight: bold;
+}
+h2 
+{
+font-weight: bold;
+font-size: 125%
+}
+ul 
+{
+list-style-type: none;
+padding-left:0;
+}
+ol 
+{
+margin-left: 2.5%;
+padding-left:0;
+}
+a:link {
+color: white;
+}
+a:visited {
+color: yellow;
+}
+a:hover {
+color: pink;
+}
+a:active {
+color: white;
+}
